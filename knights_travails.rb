@@ -25,7 +25,7 @@ def knight_moves(curr_pos, end_pos)
   list_of_pos = [curr_pos]
   visited = []
 
-  # generate list of paths
+  
   while (list_of_pos.length > 0)
     curr_pos = list_of_pos.shift
     visited.push(curr_pos)
