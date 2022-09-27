@@ -8,4 +8,5 @@ Given a starting and target position on a chess board, output a list of position
 <br>
 This was my thought process while working through the problem. I ultimately used a list of paths to keep track of the positions.
 <br>
-![image](https://user-images.githubusercontent.com/89565362/192422327-644d76fa-8095-4378-839e-7a63be26c9f8.png)
+
+<img width="765" alt="Screen Shot 2022-09-26 at 20 15 37" src="https://user-images.githubusercontent.com/89565362/192423657-3a99fca5-503d-4f34-9b44-d0101679d1bb.png">
