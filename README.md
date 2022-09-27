@@ -1,5 +1,5 @@
 # knights-travails-ruby
-[Try it out! (live link)](https://pure-anchorage-92143.herokuapp.com/)
+[Try it out! (live link)](https://replit.com/@BenedictTan1/Knights-Travails?v=1)
 <br>
 <br>
 Knight's tour in Ruby!
