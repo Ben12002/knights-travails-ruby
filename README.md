@@ -5,12 +5,13 @@
 Knight's tour in Ruby!
 <br>
 <br>
-<div>
+
 <h3>Question Statement</h3>
 Given a starting and target position on a chess board, output a list of positions representing the travel path of a knight to its target.
-<div>
+
 <br>
 <br>
+<h3>Thought Process</h3>
 This was my thought process while working through the problem. I ultimately used a list of paths to keep track of the positions.
 <br>
 
